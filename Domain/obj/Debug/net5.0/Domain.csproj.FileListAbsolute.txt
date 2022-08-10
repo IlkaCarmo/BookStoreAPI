@@ -1,0 +1,15 @@
+D:\ProjetosBackEnd\BookStoreAPI\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\ProjetosBackEnd\BookStoreAPI\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\ProjetosBackEnd\BookStoreAPI\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\ProjetosBackEnd\BookStoreAPI\Domain\bin\Debug\net5.0\Domain.dll
+D:\ProjetosBackEnd\BookStoreAPI\Domain\bin\Debug\net5.0\Domain.pdb
+D:\ProjetosBackEnd\BookStoreAPI\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\ProjetosBackEnd\BookStoreAPI\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosBackEnd\BookStoreAPI\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\ProjetosBackEnd\BookStoreAPI\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\ProjetosBackEnd\BookStoreAPI\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\ProjetosBackEnd\BookStoreAPI\Domain\obj\Debug\net5.0\Domain.dll
+D:\ProjetosBackEnd\BookStoreAPI\Domain\obj\Debug\net5.0\refint\Domain.dll
+D:\ProjetosBackEnd\BookStoreAPI\Domain\obj\Debug\net5.0\Domain.pdb
+D:\ProjetosBackEnd\BookStoreAPI\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+D:\ProjetosBackEnd\BookStoreAPI\Domain\obj\Debug\net5.0\ref\Domain.dll
